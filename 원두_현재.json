@@ -189,9 +189,9 @@
    "wholesale_link": "https://coffeelibre.kr/product/detail.html?product_no=960&cate_no=61&display_group=1"
   },
   {
-   "code": "WK-NICARAGUA-FINCA-LIBRE-GEISHA-LOT-2-200g",
-   "name_kr": "니카라과 핀카 리브레 게이샤 (lot.2)",
-   "name_en": "Nicaragua Finca Libre Geisha (lot.2)",
+   "code": "WK-NICARAGUA-FINCA-LIBRE-GEISHA",
+   "name_kr": "니카라과 핀카 리브레 게이샤",
+   "name_en": "Nicaragua Finca Libre Geisha",
    "lineup_type": "주간싱글",
    "product_category": "골드문트",
    "product_attribute": "장복",
@@ -232,7 +232,10 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-08-17_2026-08-21"
+   "period_key": "2026-08-17_2026-08-21",
+   "purchase_link": "https://coffeelibre.kr/product/detail.html?product_no=972&cate_no=53&display_group=1",
+   "wholesale_price": 37000,
+   "wholesale_link": "https://coffeelibre.kr/product/detail.html?product_no=1004&cate_no=61&display_group=1"
   },
   {
    "code": "WK-HONDURAS-LAS-VIRGINIAS-GEISHA-200g",
