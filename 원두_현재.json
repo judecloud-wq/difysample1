@@ -46,7 +46,8 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-08-17_2026-08-21"
+   "period_key": "2026-08-17_2026-08-21",
+   "purchase_link": null
   },
   {
    "code": "WK-COSTA-RICA-SANTA-TERESA-2000-MONTANA-200g",
@@ -92,7 +93,8 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-08-17_2026-08-21"
+   "period_key": "2026-08-17_2026-08-21",
+   "purchase_link": null
   },
   {
    "code": "WK-ETHIOPIA-LIMU-SUNTU-NATURAL-LIBRE-SELECTION-200g",
@@ -138,7 +140,8 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-08-17_2026-08-21"
+   "period_key": "2026-08-17_2026-08-21",
+   "purchase_link": null
   },
   {
    "code": "WK-GUATEMALA-ENTRE-VOLCANES-200g",
@@ -174,7 +177,8 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-08-17_2026-08-21"
+   "period_key": "2026-08-17_2026-08-21",
+   "purchase_link": null
   },
   {
    "code": "WK-NICARAGUA-FINCA-LIBRE-GEISHA-LOT-2-200g",
@@ -220,7 +224,8 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-08-17_2026-08-21"
+   "period_key": "2026-08-17_2026-08-21",
+   "purchase_link": null
   },
   {
    "code": "WK-HONDURAS-LAS-VIRGINIAS-GEISHA-200g",
@@ -266,7 +271,8 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-08-17_2026-08-21"
+   "period_key": "2026-08-17_2026-08-21",
+   "purchase_link": null
   },
   {
    "code": "WK-PERU-CAJAMARCA-3RD-EL-RIACHUELO-GEISHA-200g",
@@ -312,7 +318,8 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-08-17_2026-08-21"
+   "period_key": "2026-08-17_2026-08-21",
+   "purchase_link": null
   },
   {
    "code": "WK-COSTA-RICA-HELSAR-DE-ZARCERO-WHITE-HONEY-DECAF-200g",
@@ -358,7 +365,8 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-08-17_2026-08-21"
+   "period_key": "2026-08-17_2026-08-21",
+   "purchase_link": null
   },
   {
    "code": "WK-INDIA-AZAD-HIND-EXCELSA-ANAEROBIC-NATURAL-200g",
@@ -406,7 +414,8 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-08-17_2026-08-21"
+   "period_key": "2026-08-17_2026-08-21",
+   "purchase_link": null
   }
  ],
  "evergreen": [
@@ -449,7 +458,8 @@
    "blend_composition": "케냐 워시드 40%, 에티오피아 내추럴 30%, 에티오피아 워시드 30%",
    "feature": "상큼한 과일 향미와 흑설탕·다크초콜릿의 묵직한 단맛이 어우러지며 아이스로 즐기기 좋다.",
    "purchase_condition": null,
-   "channel_note": null
+   "channel_note": null,
+   "purchase_link": null
   },
   {
    "code": "EVG-NIGHTHAWKS-200g",
@@ -489,7 +499,8 @@
    "blend_composition": "콜롬비아 43%, 과테말라 30%, 코스타리카 27%",
    "feature": "아늑하고 깊은 단맛과 부드러운 목 넘김이 특징인 디카페인 블렌드다.",
    "purchase_condition": null,
-   "channel_note": null
+   "channel_note": null,
+   "purchase_link": null
   },
   {
    "code": "EVG-DARK-LIBRE-200g",
@@ -527,7 +538,8 @@
    "blend_composition": "인도 50%, 콜롬비아 30%, 온두라스 20%",
    "feature": "스페셜티 생두로 이탈리아 전통 에스프레소를 재해석한 다크 로스팅 블렌드다.",
    "purchase_condition": null,
-   "channel_note": null
+   "channel_note": null,
+   "purchase_link": null
   },
   {
    "code": "EVG-VERTIGO-200g",
@@ -565,7 +577,8 @@
    "blend_composition": "인도 60%, 콜롬비아 25%, 온두라스 15%",
    "feature": "묵직한 초콜릿과 고소한 견과류의 조합으로 합리적이고 균형 잡힌 맛을 지향한다.",
    "purchase_condition": null,
-   "channel_note": null
+   "channel_note": null,
+   "purchase_link": null
   },
   {
    "code": "EVG-NO-SURPRISES-200g",
@@ -603,7 +616,8 @@
    "blend_composition": "인도 40%, 온두라스 40%, 에티오피아 20%",
    "feature": "단맛과 산미가 고르게 어우러진 균형 좋은 에스프레소 블렌드다.",
    "purchase_condition": null,
-   "channel_note": null
+   "channel_note": null,
+   "purchase_link": null
   },
   {
    "code": "EVG-BAD-BLOOD-200g",
@@ -642,7 +656,8 @@
    "blend_composition": "에티오피아 30%, 니카라과 30%, 코스타리카 40%",
    "feature": "생두의 개성을 살린 밝고 시럽 같은 과일 풍미가 특징이다.",
    "purchase_condition": null,
-   "channel_note": null
+   "channel_note": null,
+   "purchase_link": null
   },
   {
    "code": "EVG-NIGHTHAWKS-1kg",
@@ -680,7 +695,8 @@
    "blend_composition": "콜롬비아 43%, 과테말라 30%, 코스타리카 27%",
    "feature": null,
    "purchase_condition": "홀빈으로만 제공하며 분쇄도 선택이 불가하다. 지퍼가 없는 M방 봉투로 제공된다.",
-   "channel_note": null
+   "channel_note": null,
+   "purchase_link": null
   },
   {
    "code": "EVG-NO-SURPRISES-1kg",
@@ -718,7 +734,8 @@
    "blend_composition": "인도 40%, 온두라스 40%, 에티오피아 20%",
    "feature": null,
    "purchase_condition": "홀빈으로만 제공하며 분쇄도 선택이 불가하다.",
-   "channel_note": null
+   "channel_note": null,
+   "purchase_link": null
   },
   {
    "code": "EVG-DARK-LIBRE-1kg",
@@ -757,7 +774,8 @@
    "blend_composition": "인도 50%, 콜롬비아 30%, 온두라스 20%",
    "feature": "스페셜티 생두로 이탈리아 전통 에스프레소를 재해석한 다크 로스팅 블렌드다.",
    "purchase_condition": "홀빈으로만 제공하며 분쇄도 선택이 불가하다.",
-   "channel_note": null
+   "channel_note": null,
+   "purchase_link": null
   },
   {
    "code": "EVG-BAD-BLOOD-1kg",
@@ -796,7 +814,8 @@
    "blend_composition": "에티오피아 30%, 니카라과 30%, 코스타리카 40%",
    "feature": null,
    "purchase_condition": "홀빈으로만 제공하며 분쇄도 선택이 불가하다.",
-   "channel_note": null
+   "channel_note": null,
+   "purchase_link": null
   },
   {
    "code": "EVG-VERTIGO-1kg",
@@ -834,7 +853,8 @@
    "blend_composition": "인도 60%, 콜롬비아 25%, 온두라스 15%",
    "feature": null,
    "purchase_condition": "홀빈으로만 제공하며 분쇄도 선택이 불가하다.",
-   "channel_note": null
+   "channel_note": null,
+   "purchase_link": null
   },
   {
    "code": "EVG-ULSEOULSEOULSEO-1kg",
@@ -873,7 +893,8 @@
    "blend_composition": "에티오피아 40%, 과테말라 30%, 인도 30%",
    "feature": null,
    "purchase_condition": "홀빈으로만 제공하며 분쇄도 선택이 불가하다. 지퍼가 없는 M방 봉투로 제공된다.",
-   "channel_note": "200g 상품은 명동성당점 매장에서만 구매할 수 있으며, 이 청크는 1kg 상품 정보다."
+   "channel_note": "200g 상품은 명동성당점 매장에서만 구매할 수 있으며, 이 청크는 1kg 상품 정보다.",
+   "purchase_link": null
   }
  ],
  "next_week_singles": [
@@ -921,7 +942,8 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-08-24_2026-08-28"
+   "period_key": "2026-08-24_2026-08-28",
+   "purchase_link": null
   },
   {
    "code": "WK-ETHIOPIA-NENSEBO-TADESSE-DEGIFE-NATURAL-200g",
@@ -967,7 +989,8 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-08-24_2026-08-28"
+   "period_key": "2026-08-24_2026-08-28",
+   "purchase_link": null
   },
   {
    "code": "WK-NICARAGUA-FINCA-LIBRE-KENYA-200g",
@@ -1013,7 +1036,8 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-08-24_2026-08-28"
+   "period_key": "2026-08-24_2026-08-28",
+   "purchase_link": null
   },
   {
    "code": "WK-COLOMBIA-NARINO-EL-PLAN-200g",
@@ -1049,7 +1073,8 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-08-24_2026-08-28"
+   "period_key": "2026-08-24_2026-08-28",
+   "purchase_link": null
   },
   {
    "code": "WK-INDIA-GEMS-OF-ARAKU-12TH-RUBY-ABUNDANCE-200g",
@@ -1095,7 +1120,8 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-08-24_2026-08-28"
+   "period_key": "2026-08-24_2026-08-28",
+   "purchase_link": null
   },
   {
    "code": "WK-PERU-EL-CERRO-GEISHA-200g",
@@ -1141,7 +1167,8 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-08-24_2026-08-28"
+   "period_key": "2026-08-24_2026-08-28",
+   "purchase_link": null
   },
   {
    "code": "WK-GUATEMALA-COE-2ND-LAS-MACADAMIAS-PACAMARA-200g",
@@ -1187,7 +1214,8 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-08-24_2026-08-28"
+   "period_key": "2026-08-24_2026-08-28",
+   "purchase_link": null
   },
   {
    "code": "WK-COSTA-RICA-HELSAR-DE-ZARCERO-WHITE-HONEY-DECAF-200g",
@@ -1233,7 +1261,8 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-08-24_2026-08-28"
+   "period_key": "2026-08-24_2026-08-28",
+   "purchase_link": null
   },
   {
    "code": "WK-COSTA-RICA-CORAZON-DE-JESUS-GEISHA-SLOW-DRY-NATURAL-200g",
@@ -1279,7 +1308,8 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-08-24_2026-08-28"
+   "period_key": "2026-08-24_2026-08-28",
+   "purchase_link": null
   }
  ]
 }
