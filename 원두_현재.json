@@ -47,7 +47,9 @@
    "purchase_condition": null,
    "channel_note": null,
    "period_key": "2026-08-17_2026-08-21",
-   "purchase_link": null
+   "purchase_link": "https://coffeelibre.kr/product/detail.html?product_no=6519&cate_no=53&display_group=1",
+   "wholesale_price": 23500,
+   "wholesale_link": "https://coffeelibre.kr/product/detail.html?product_no=6520&cate_no=61&display_group=1"
   },
   {
    "code": "WK-COSTA-RICA-SANTA-TERESA-2000-MONTANA-200g",
@@ -94,7 +96,9 @@
    "purchase_condition": null,
    "channel_note": null,
    "period_key": "2026-08-17_2026-08-21",
-   "purchase_link": null
+   "purchase_link": "https://coffeelibre.kr/product/detail.html?product_no=7979&cate_no=53&display_group=1",
+   "wholesale_price": 24000,
+   "wholesale_link": "https://coffeelibre.kr/product/detail.html?product_no=7980&cate_no=61&display_group=1"
   },
   {
    "code": "WK-ETHIOPIA-LIMU-SUNTU-NATURAL-LIBRE-SELECTION-200g",
@@ -141,7 +145,9 @@
    "purchase_condition": null,
    "channel_note": null,
    "period_key": "2026-08-17_2026-08-21",
-   "purchase_link": null
+   "purchase_link": "https://coffeelibre.kr/product/detail.html?product_no=7982&cate_no=53&display_group=1",
+   "wholesale_price": 19000,
+   "wholesale_link": "https://coffeelibre.kr/product/detail.html?product_no=7983&cate_no=61&display_group=1"
   },
   {
    "code": "WK-GUATEMALA-ENTRE-VOLCANES-200g",
@@ -178,7 +184,9 @@
    "purchase_condition": null,
    "channel_note": null,
    "period_key": "2026-08-17_2026-08-21",
-   "purchase_link": null
+   "purchase_link": "https://coffeelibre.kr/product/detail.html?product_no=939&cate_no=53&display_group=1",
+   "wholesale_price": 19000,
+   "wholesale_link": "https://coffeelibre.kr/product/detail.html?product_no=960&cate_no=61&display_group=1"
   },
   {
    "code": "WK-NICARAGUA-FINCA-LIBRE-GEISHA-LOT-2-200g",
@@ -224,8 +232,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-08-17_2026-08-21",
-   "purchase_link": null
+   "period_key": "2026-08-17_2026-08-21"
   },
   {
    "code": "WK-HONDURAS-LAS-VIRGINIAS-GEISHA-200g",
@@ -272,7 +279,9 @@
    "purchase_condition": null,
    "channel_note": null,
    "period_key": "2026-08-17_2026-08-21",
-   "purchase_link": null
+   "purchase_link": "https://coffeelibre.kr/product/detail.html?product_no=7986&cate_no=53&display_group=1",
+   "wholesale_price": 45000,
+   "wholesale_link": "https://coffeelibre.kr/product/detail.html?product_no=7987&cate_no=61&display_group=1"
   },
   {
    "code": "WK-PERU-CAJAMARCA-3RD-EL-RIACHUELO-GEISHA-200g",
@@ -319,7 +328,7 @@
    "purchase_condition": null,
    "channel_note": null,
    "period_key": "2026-08-17_2026-08-21",
-   "purchase_link": null
+   "purchase_link": "https://coffeelibre.kr/product/detail.html?product_no=7284&cate_no=53&display_group=1"
   },
   {
    "code": "WK-COSTA-RICA-HELSAR-DE-ZARCERO-WHITE-HONEY-DECAF-200g",
@@ -366,7 +375,9 @@
    "purchase_condition": null,
    "channel_note": null,
    "period_key": "2026-08-17_2026-08-21",
-   "purchase_link": null
+   "purchase_link": "https://coffeelibre.kr/product/detail.html?product_no=7775&cate_no=53&display_group=1",
+   "wholesale_price": 19000,
+   "wholesale_link": "https://coffeelibre.kr/product/detail.html?product_no=7776&cate_no=61&display_group=1"
   },
   {
    "code": "WK-INDIA-AZAD-HIND-EXCELSA-ANAEROBIC-NATURAL-200g",
@@ -414,8 +425,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-08-17_2026-08-21",
-   "purchase_link": null
+   "period_key": "2026-08-17_2026-08-21"
   }
  ],
  "evergreen": [
@@ -459,7 +469,7 @@
    "feature": "상큼한 과일 향미와 흑설탕·다크초콜릿의 묵직한 단맛이 어우러지며 아이스로 즐기기 좋다.",
    "purchase_condition": null,
    "channel_note": null,
-   "purchase_link": null
+   "purchase_link": "https://coffeelibre.kr/product/detail.html?product_no=7671&cate_no=53&display_group=1"
   },
   {
    "code": "EVG-NIGHTHAWKS-200g",
@@ -500,7 +510,7 @@
    "feature": "아늑하고 깊은 단맛과 부드러운 목 넘김이 특징인 디카페인 블렌드다.",
    "purchase_condition": null,
    "channel_note": null,
-   "purchase_link": null
+   "purchase_link": "https://coffeelibre.kr/product/detail.html?product_no=3176&cate_no=53&display_group=1"
   },
   {
    "code": "EVG-DARK-LIBRE-200g",
@@ -539,7 +549,7 @@
    "feature": "스페셜티 생두로 이탈리아 전통 에스프레소를 재해석한 다크 로스팅 블렌드다.",
    "purchase_condition": null,
    "channel_note": null,
-   "purchase_link": null
+   "purchase_link": "https://coffeelibre.kr/product/detail.html?product_no=794&cate_no=53&display_group=1"
   },
   {
    "code": "EVG-VERTIGO-200g",
@@ -578,7 +588,7 @@
    "feature": "묵직한 초콜릿과 고소한 견과류의 조합으로 합리적이고 균형 잡힌 맛을 지향한다.",
    "purchase_condition": null,
    "channel_note": null,
-   "purchase_link": null
+   "purchase_link": "https://coffeelibre.kr/product/detail.html?product_no=793&cate_no=53&display_group=1"
   },
   {
    "code": "EVG-NO-SURPRISES-200g",
@@ -617,7 +627,7 @@
    "feature": "단맛과 산미가 고르게 어우러진 균형 좋은 에스프레소 블렌드다.",
    "purchase_condition": null,
    "channel_note": null,
-   "purchase_link": null
+   "purchase_link": "https://coffeelibre.kr/product/detail.html?product_no=791&cate_no=53&display_group=1"
   },
   {
    "code": "EVG-BAD-BLOOD-200g",
@@ -657,7 +667,7 @@
    "feature": "생두의 개성을 살린 밝고 시럽 같은 과일 풍미가 특징이다.",
    "purchase_condition": null,
    "channel_note": null,
-   "purchase_link": null
+   "purchase_link": "https://coffeelibre.kr/product/detail.html?product_no=790&cate_no=53&display_group=1"
   },
   {
    "code": "EVG-NIGHTHAWKS-1kg",
@@ -696,7 +706,9 @@
    "feature": null,
    "purchase_condition": "홀빈으로만 제공하며 분쇄도 선택이 불가하다. 지퍼가 없는 M방 봉투로 제공된다.",
    "channel_note": null,
-   "purchase_link": null
+   "purchase_link": "https://coffeelibre.kr/product/detail.html?product_no=7329&cate_no=53&display_group=1",
+   "wholesale_price": 20350,
+   "wholesale_link": "https://coffeelibre.kr/product/detail.html?product_no=3156&cate_no=61&display_group=1"
   },
   {
    "code": "EVG-NO-SURPRISES-1kg",
@@ -735,7 +747,9 @@
    "feature": null,
    "purchase_condition": "홀빈으로만 제공하며 분쇄도 선택이 불가하다.",
    "channel_note": null,
-   "purchase_link": null
+   "purchase_link": "https://coffeelibre.kr/product/detail.html?product_no=7326&cate_no=53&display_group=1",
+   "wholesale_price": 31900,
+   "wholesale_link": "https://coffeelibre.kr/product/detail.html?product_no=797&cate_no=61&display_group=1"
   },
   {
    "code": "EVG-DARK-LIBRE-1kg",
@@ -775,7 +789,9 @@
    "feature": "스페셜티 생두로 이탈리아 전통 에스프레소를 재해석한 다크 로스팅 블렌드다.",
    "purchase_condition": "홀빈으로만 제공하며 분쇄도 선택이 불가하다.",
    "channel_note": null,
-   "purchase_link": null
+   "purchase_link": "https://coffeelibre.kr/product/detail.html?product_no=7327&cate_no=53&display_group=1",
+   "wholesale_price": 31900,
+   "wholesale_link": "https://coffeelibre.kr/product/detail.html?product_no=795&cate_no=61&display_group=1"
   },
   {
    "code": "EVG-BAD-BLOOD-1kg",
@@ -815,7 +831,9 @@
    "feature": null,
    "purchase_condition": "홀빈으로만 제공하며 분쇄도 선택이 불가하다.",
    "channel_note": null,
-   "purchase_link": null
+   "purchase_link": "https://coffeelibre.kr/product/detail.html?product_no=500&cate_no=53&display_group=1",
+   "wholesale_price": 36300,
+   "wholesale_link": "https://coffeelibre.kr/product/detail.html?product_no=798&cate_no=61&display_group=1"
   },
   {
    "code": "EVG-VERTIGO-1kg",
@@ -854,7 +872,9 @@
    "feature": null,
    "purchase_condition": "홀빈으로만 제공하며 분쇄도 선택이 불가하다.",
    "channel_note": null,
-   "purchase_link": null
+   "purchase_link": "https://coffeelibre.kr/product/detail.html?product_no=7328&cate_no=53&display_group=1",
+   "wholesale_price": 27500,
+   "wholesale_link": "https://coffeelibre.kr/product/detail.html?product_no=796&cate_no=61&display_group=1"
   },
   {
    "code": "EVG-ULSEOULSEOULSEO-1kg",
@@ -894,7 +914,7 @@
    "feature": null,
    "purchase_condition": "홀빈으로만 제공하며 분쇄도 선택이 불가하다. 지퍼가 없는 M방 봉투로 제공된다.",
    "channel_note": "200g 상품은 명동성당점 매장에서만 구매할 수 있으며, 이 청크는 1kg 상품 정보다.",
-   "purchase_link": null
+   "purchase_link": "https://coffeelibre.kr/product/detail.html?product_no=498&cate_no=53&display_group=1"
   }
  ],
  "next_week_singles": [
