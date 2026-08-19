@@ -1,6 +1,6 @@
 {
  "archive_year": 2026,
- "note": "오래된 항목이 배열 앞쪽, 최신 항목이 뒤쪽에 위치합니다. 매주 이 배열 끝에 새 항목을 추가하세요.",
+ "note": "2026년 8월 중순부터 판매 주기가 금-목에서 월-금으로 변경되었습니다. 과거 기록은 모두 월-금 기준으로 환산되어 있습니다(시작일+3일, 종료일+1일). 실제 공식 판매일(공휴일 제외)은 official_sale_days 필드가 있는 경우에만 참고하세요.",
  "known_issues": [
   "2026년 7월 5주차와 2026년 8월 1주차는 판매 기간이 동일(2026-07-24~2026-07-30)합니다. week_label_aliases 필드에 이 관계를 명시했습니다. 비교·조회 시 period_key(판매 기간 기준)를 우선 사용하면 라벨 차이와 무관하게 정확히 묶입니다."
  ],
@@ -15,8 +15,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 7월 1주차",
-   "sale_period_start": "2026-06-26",
-   "sale_period_end": "2026-07-02",
+   "sale_period_start": "2026-06-29",
+   "sale_period_end": "2026-07-03",
    "weight": "200g",
    "price": 19000,
    "price_per_100g": null,
@@ -49,7 +49,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-06-26_2026-07-02"
+   "period_key": "2026-06-29_2026-07-03"
   },
   {
    "code": "WK-RWANDA-BUSANZE-200g",
@@ -61,8 +61,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 7월 1주차",
-   "sale_period_start": "2026-06-26",
-   "sale_period_end": "2026-07-02",
+   "sale_period_start": "2026-06-29",
+   "sale_period_end": "2026-07-03",
    "weight": "200g",
    "price": 17000,
    "price_per_100g": null,
@@ -95,7 +95,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-06-26_2026-07-02"
+   "period_key": "2026-06-29_2026-07-03"
   },
   {
    "code": "WK-GUATEMALA-EL-TEMPIXQUE-CATUAI-200g",
@@ -107,8 +107,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 7월 1주차",
-   "sale_period_start": "2026-06-26",
-   "sale_period_end": "2026-07-02",
+   "sale_period_start": "2026-06-29",
+   "sale_period_end": "2026-07-03",
    "weight": "200g",
    "price": 19000,
    "price_per_100g": null,
@@ -141,7 +141,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-06-26_2026-07-02"
+   "period_key": "2026-06-29_2026-07-03"
   },
   {
    "code": "WK-HONDURAS-BANADEROS-200g",
@@ -153,8 +153,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 7월 1주차",
-   "sale_period_start": "2026-06-26",
-   "sale_period_end": "2026-07-02",
+   "sale_period_start": "2026-06-29",
+   "sale_period_end": "2026-07-03",
    "weight": "200g",
    "price": 17000,
    "price_per_100g": null,
@@ -179,7 +179,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-06-26_2026-07-02"
+   "period_key": "2026-06-29_2026-07-03"
   },
   {
    "code": "WK-COLOMBIA-LAND-OF-DIVERSITY-LA-MARINA-200g",
@@ -191,8 +191,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 7월 1주차",
-   "sale_period_start": "2026-06-26",
-   "sale_period_end": "2026-07-02",
+   "sale_period_start": "2026-06-29",
+   "sale_period_end": "2026-07-03",
    "weight": "200g",
    "price": 24000,
    "price_per_100g": null,
@@ -225,7 +225,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-06-26_2026-07-02"
+   "period_key": "2026-06-29_2026-07-03"
   },
   {
    "code": "WK-PERU-LA-LUCUMA-GEISHA-200g",
@@ -237,8 +237,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 7월 1주차",
-   "sale_period_start": "2026-06-26",
-   "sale_period_end": "2026-07-02",
+   "sale_period_start": "2026-06-29",
+   "sale_period_end": "2026-07-03",
    "weight": "200g",
    "price": 40000,
    "price_per_100g": null,
@@ -271,7 +271,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-06-26_2026-07-02"
+   "period_key": "2026-06-29_2026-07-03"
   },
   {
    "code": "WK-PANAMA-ELIDA-EL-BURRO-GEISHA-100g",
@@ -283,8 +283,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 7월 1주차",
-   "sale_period_start": "2026-06-26",
-   "sale_period_end": "2026-07-02",
+   "sale_period_start": "2026-06-29",
+   "sale_period_end": "2026-07-03",
    "weight": "100g",
    "price": 76000,
    "price_per_100g": null,
@@ -317,7 +317,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-06-26_2026-07-02"
+   "period_key": "2026-06-29_2026-07-03"
   },
   {
    "code": "WK-COSTA-RICA-HELSAR-DE-ZARCERO-WHITE-HONEY-DECAF-200g",
@@ -329,8 +329,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 7월 1주차",
-   "sale_period_start": "2026-06-26",
-   "sale_period_end": "2026-07-02",
+   "sale_period_start": "2026-06-29",
+   "sale_period_end": "2026-07-03",
    "weight": "200g",
    "price": 17000,
    "price_per_100g": null,
@@ -363,7 +363,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-06-26_2026-07-02"
+   "period_key": "2026-06-29_2026-07-03"
   },
   {
    "code": "WK-PERU-EL-CERRO-GEISHA-NATURAL-200g",
@@ -375,8 +375,8 @@
    "sale_type": "기간 한정",
    "sale_channel": "매장 전용",
    "week_label": "2026년 7월 1주차",
-   "sale_period_start": "2026-06-26",
-   "sale_period_end": "2026-07-02",
+   "sale_period_start": "2026-06-29",
+   "sale_period_end": "2026-07-03",
    "weight": "200g",
    "price": 38000,
    "price_per_100g": null,
@@ -409,7 +409,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-06-26_2026-07-02"
+   "period_key": "2026-06-29_2026-07-03"
   },
   {
    "code": "WK-KENYA-NGORANO-200g",
@@ -421,8 +421,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 7월 2주차",
-   "sale_period_start": "2026-07-03",
-   "sale_period_end": "2026-07-09",
+   "sale_period_start": "2026-07-06",
+   "sale_period_end": "2026-07-10",
    "weight": "200g",
    "price": 19000,
    "price_per_100g": null,
@@ -455,7 +455,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-07-03_2026-07-09"
+   "period_key": "2026-07-06_2026-07-10"
   },
   {
    "code": "WK-COLOMBIA-HUILA-LAS-LAJAS-BOURBON-AJI-200g",
@@ -467,8 +467,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 7월 2주차",
-   "sale_period_start": "2026-07-03",
-   "sale_period_end": "2026-07-09",
+   "sale_period_start": "2026-07-06",
+   "sale_period_end": "2026-07-10",
    "weight": "200g",
    "price": 19000,
    "price_per_100g": null,
@@ -501,7 +501,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-07-03_2026-07-09"
+   "period_key": "2026-07-06_2026-07-10"
   },
   {
    "code": "WK-ETHIOPIA-KAFFA-BITA-LIBRE-SELECTION-200g",
@@ -513,8 +513,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 7월 2주차",
-   "sale_period_start": "2026-07-03",
-   "sale_period_end": "2026-07-09",
+   "sale_period_start": "2026-07-06",
+   "sale_period_end": "2026-07-10",
    "weight": "200g",
    "price": 17000,
    "price_per_100g": null,
@@ -547,7 +547,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-07-03_2026-07-09"
+   "period_key": "2026-07-06_2026-07-10"
   },
   {
    "code": "WK-GUATEMALA-EL-TARRO-200g",
@@ -559,8 +559,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 7월 2주차",
-   "sale_period_start": "2026-07-03",
-   "sale_period_end": "2026-07-09",
+   "sale_period_start": "2026-07-06",
+   "sale_period_end": "2026-07-10",
    "weight": "200g",
    "price": 19000,
    "price_per_100g": null,
@@ -585,7 +585,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-07-03_2026-07-09"
+   "period_key": "2026-07-06_2026-07-10"
   },
   {
    "code": "WK-HONDURAS-LA-REINA-GEISHA-200g",
@@ -597,8 +597,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 7월 2주차",
-   "sale_period_start": "2026-07-03",
-   "sale_period_end": "2026-07-09",
+   "sale_period_start": "2026-07-06",
+   "sale_period_end": "2026-07-10",
    "weight": "200g",
    "price": 30000,
    "price_per_100g": null,
@@ -631,7 +631,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-07-03_2026-07-09"
+   "period_key": "2026-07-06_2026-07-10"
   },
   {
    "code": "WK-PERU-EL-CIPRES-GEISHA-200g",
@@ -643,8 +643,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 7월 2주차",
-   "sale_period_start": "2026-07-03",
-   "sale_period_end": "2026-07-09",
+   "sale_period_start": "2026-07-06",
+   "sale_period_end": "2026-07-10",
    "weight": "200g",
    "price": 33000,
    "price_per_100g": null,
@@ -677,7 +677,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-07-03_2026-07-09"
+   "period_key": "2026-07-06_2026-07-10"
   },
   {
    "code": "WK-NICARAGUA-COE-8TH-JESUS-MOUNTAIN-PACAMARA-100g",
@@ -689,8 +689,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 7월 2주차",
-   "sale_period_start": "2026-07-03",
-   "sale_period_end": "2026-07-09",
+   "sale_period_start": "2026-07-06",
+   "sale_period_end": "2026-07-10",
    "weight": "100g",
    "price": 23000,
    "price_per_100g": null,
@@ -723,7 +723,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-07-03_2026-07-09"
+   "period_key": "2026-07-06_2026-07-10"
   },
   {
    "code": "WK-COSTA-RICA-HELSAR-DE-ZARCERO-WHITE-HONEY-DECAF-200g",
@@ -735,8 +735,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 7월 2주차",
-   "sale_period_start": "2026-07-03",
-   "sale_period_end": "2026-07-09",
+   "sale_period_start": "2026-07-06",
+   "sale_period_end": "2026-07-10",
    "weight": "200g",
    "price": 17000,
    "price_per_100g": null,
@@ -769,7 +769,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-07-03_2026-07-09"
+   "period_key": "2026-07-06_2026-07-10"
   },
   {
    "code": "WK-CONGO-BEST-OF-CONGO-1ST-MAJIRANE-200g",
@@ -781,8 +781,8 @@
    "sale_type": "기간 한정",
    "sale_channel": "매장 전용",
    "week_label": "2026년 7월 2주차",
-   "sale_period_start": "2026-07-03",
-   "sale_period_end": "2026-07-09",
+   "sale_period_start": "2026-07-06",
+   "sale_period_end": "2026-07-10",
    "weight": "200g",
    "price": 22000,
    "price_per_100g": null,
@@ -815,7 +815,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-07-03_2026-07-09"
+   "period_key": "2026-07-06_2026-07-10"
   },
   {
    "code": "WK-ETHIOPIA-YIRGACHEFFE-GEDEB-CHORSO-200g",
@@ -827,8 +827,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 7월 3주차",
-   "sale_period_start": "2026-07-10",
-   "sale_period_end": "2026-07-16",
+   "sale_period_start": "2026-07-13",
+   "sale_period_end": "2026-07-17",
    "weight": "200g",
    "price": 19000,
    "price_per_100g": null,
@@ -861,7 +861,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-07-10_2026-07-16"
+   "period_key": "2026-07-13_2026-07-17"
   },
   {
    "code": "WK-GUATEMALA-LA-TACITA-200g",
@@ -873,8 +873,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 7월 3주차",
-   "sale_period_start": "2026-07-10",
-   "sale_period_end": "2026-07-16",
+   "sale_period_start": "2026-07-13",
+   "sale_period_end": "2026-07-17",
    "weight": "200g",
    "price": 19000,
    "price_per_100g": null,
@@ -907,7 +907,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-07-10_2026-07-16"
+   "period_key": "2026-07-13_2026-07-17"
   },
   {
    "code": "WK-NICARAGUA-LA-ESPERANZA-200g",
@@ -919,8 +919,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 7월 3주차",
-   "sale_period_start": "2026-07-10",
-   "sale_period_end": "2026-07-16",
+   "sale_period_start": "2026-07-13",
+   "sale_period_end": "2026-07-17",
    "weight": "200g",
    "price": 17000,
    "price_per_100g": null,
@@ -953,7 +953,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-07-10_2026-07-16"
+   "period_key": "2026-07-13_2026-07-17"
   },
   {
    "code": "WK-INDIA-GEMS-OF-ARAKU-7TH-SOIL-SPEAKS-NATURAL-200g",
@@ -965,8 +965,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 7월 3주차",
-   "sale_period_start": "2026-07-10",
-   "sale_period_end": "2026-07-16",
+   "sale_period_start": "2026-07-13",
+   "sale_period_end": "2026-07-17",
    "weight": "200g",
    "price": 28000,
    "price_per_100g": null,
@@ -999,7 +999,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-07-10_2026-07-16"
+   "period_key": "2026-07-13_2026-07-17"
   },
   {
    "code": "WK-PERU-INKAWASI-9TH-LA-FRONTERA-GEISHA-200g",
@@ -1011,8 +1011,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 7월 3주차",
-   "sale_period_start": "2026-07-10",
-   "sale_period_end": "2026-07-16",
+   "sale_period_start": "2026-07-13",
+   "sale_period_end": "2026-07-17",
    "weight": "200g",
    "price": 40000,
    "price_per_100g": null,
@@ -1045,7 +1045,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-07-10_2026-07-16"
+   "period_key": "2026-07-13_2026-07-17"
   },
   {
    "code": "WK-COLOMBIA-LAND-OF-DIVERSITY-EL-RUBI-GEISHA-HONEY-100g",
@@ -1057,8 +1057,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 7월 3주차",
-   "sale_period_start": "2026-07-10",
-   "sale_period_end": "2026-07-16",
+   "sale_period_start": "2026-07-13",
+   "sale_period_end": "2026-07-17",
    "weight": "100g",
    "price": 42000,
    "price_per_100g": null,
@@ -1091,7 +1091,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-07-10_2026-07-16"
+   "period_key": "2026-07-13_2026-07-17"
   },
   {
    "code": "WK-PANAMA-FINCA-HARTMANN-GEISHA-200g",
@@ -1103,8 +1103,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 7월 3주차",
-   "sale_period_start": "2026-07-10",
-   "sale_period_end": "2026-07-16",
+   "sale_period_start": "2026-07-13",
+   "sale_period_end": "2026-07-17",
    "weight": "200g",
    "price": 49000,
    "price_per_100g": null,
@@ -1129,7 +1129,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-07-10_2026-07-16"
+   "period_key": "2026-07-13_2026-07-17"
   },
   {
    "code": "WK-COSTA-RICA-HELSAR-DE-ZARCERO-WHITE-HONEY-DECAF-200g",
@@ -1141,8 +1141,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 7월 3주차",
-   "sale_period_start": "2026-07-10",
-   "sale_period_end": "2026-07-16",
+   "sale_period_start": "2026-07-13",
+   "sale_period_end": "2026-07-17",
    "weight": "200g",
    "price": 17000,
    "price_per_100g": null,
@@ -1175,7 +1175,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-07-10_2026-07-16"
+   "period_key": "2026-07-13_2026-07-17"
   },
   {
    "code": "WK-COLOMBIA-NARINO-EL-PLAN-200g",
@@ -1187,8 +1187,8 @@
    "sale_type": "기간 한정",
    "sale_channel": "매장 전용",
    "week_label": "2026년 7월 3주차",
-   "sale_period_start": "2026-07-10",
-   "sale_period_end": "2026-07-16",
+   "sale_period_start": "2026-07-13",
+   "sale_period_end": "2026-07-17",
    "weight": "200g",
    "price": 19000,
    "price_per_100g": null,
@@ -1221,7 +1221,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-07-10_2026-07-16"
+   "period_key": "2026-07-13_2026-07-17"
   },
   {
    "code": "WK-KENYA-KABINGARA-200g",
@@ -1233,8 +1233,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 7월 4주차",
-   "sale_period_start": "2026-07-17",
-   "sale_period_end": "2026-07-23",
+   "sale_period_start": "2026-07-20",
+   "sale_period_end": "2026-07-24",
    "weight": "200g",
    "price": 19000,
    "price_per_100g": null,
@@ -1267,7 +1267,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-07-17_2026-07-23"
+   "period_key": "2026-07-20_2026-07-24"
   },
   {
    "code": "WK-GUATEMALA-ENTRE-VOLCANES-200g",
@@ -1279,8 +1279,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 7월 4주차",
-   "sale_period_start": "2026-07-17",
-   "sale_period_end": "2026-07-23",
+   "sale_period_start": "2026-07-20",
+   "sale_period_end": "2026-07-24",
    "weight": "200g",
    "price": 17000,
    "price_per_100g": null,
@@ -1313,7 +1313,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-07-17_2026-07-23"
+   "period_key": "2026-07-20_2026-07-24"
   },
   {
    "code": "WK-INDIA-ATTIKAN-200g",
@@ -1325,8 +1325,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 7월 4주차",
-   "sale_period_start": "2026-07-17",
-   "sale_period_end": "2026-07-23",
+   "sale_period_start": "2026-07-20",
+   "sale_period_end": "2026-07-24",
    "weight": "200g",
    "price": 17000,
    "price_per_100g": null,
@@ -1351,7 +1351,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-07-17_2026-07-23"
+   "period_key": "2026-07-20_2026-07-24"
   },
   {
    "code": "WK-ETHIOPIA-SIDAMO-BENSA-BODE-BASHA-BEKELE-NATURAL-200g",
@@ -1363,8 +1363,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 7월 4주차",
-   "sale_period_start": "2026-07-17",
-   "sale_period_end": "2026-07-23",
+   "sale_period_start": "2026-07-20",
+   "sale_period_end": "2026-07-24",
    "weight": "200g",
    "price": 24000,
    "price_per_100g": null,
@@ -1397,7 +1397,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-07-17_2026-07-23"
+   "period_key": "2026-07-20_2026-07-24"
   },
   {
    "code": "WK-PERU-LA-FLOR-DE-LA-PALMA-GEISHA-200g",
@@ -1409,8 +1409,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 7월 4주차",
-   "sale_period_start": "2026-07-17",
-   "sale_period_end": "2026-07-23",
+   "sale_period_start": "2026-07-20",
+   "sale_period_end": "2026-07-24",
    "weight": "200g",
    "price": 26000,
    "price_per_100g": null,
@@ -1443,7 +1443,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-07-17_2026-07-23"
+   "period_key": "2026-07-20_2026-07-24"
   },
   {
    "code": "WK-HONDURAS-LAS-VIRGINIAS-GEISHA-NATURAL-200g",
@@ -1455,8 +1455,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 7월 4주차",
-   "sale_period_start": "2026-07-17",
-   "sale_period_end": "2026-07-23",
+   "sale_period_start": "2026-07-20",
+   "sale_period_end": "2026-07-24",
    "weight": "200g",
    "price": 32000,
    "price_per_100g": null,
@@ -1489,7 +1489,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-07-17_2026-07-23"
+   "period_key": "2026-07-20_2026-07-24"
   },
   {
    "code": "WK-NICARAGUA-COE-8TH-JESUS-MOUNTAIN-PACAMARA-100g",
@@ -1501,8 +1501,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 7월 4주차",
-   "sale_period_start": "2026-07-17",
-   "sale_period_end": "2026-07-23",
+   "sale_period_start": "2026-07-20",
+   "sale_period_end": "2026-07-24",
    "weight": "100g",
    "price": 23000,
    "price_per_100g": null,
@@ -1535,7 +1535,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-07-17_2026-07-23"
+   "period_key": "2026-07-20_2026-07-24"
   },
   {
    "code": "WK-COSTA-RICA-HELSAR-DE-ZARCERO-WHITE-HONEY-DECAF-200g",
@@ -1547,8 +1547,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 7월 4주차",
-   "sale_period_start": "2026-07-17",
-   "sale_period_end": "2026-07-23",
+   "sale_period_start": "2026-07-20",
+   "sale_period_end": "2026-07-24",
    "weight": "200g",
    "price": 17000,
    "price_per_100g": null,
@@ -1581,7 +1581,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-07-17_2026-07-23"
+   "period_key": "2026-07-20_2026-07-24"
   },
   {
    "code": "WK-NICARAGUA-FINCA-LIBRE-ANAEROBIC-NATURAL-200g",
@@ -1593,8 +1593,8 @@
    "sale_type": "기간 한정",
    "sale_channel": "매장 전용",
    "week_label": "2026년 7월 4주차",
-   "sale_period_start": "2026-07-17",
-   "sale_period_end": "2026-07-23",
+   "sale_period_start": "2026-07-20",
+   "sale_period_end": "2026-07-24",
    "weight": "200g",
    "price": 24000,
    "price_per_100g": null,
@@ -1627,7 +1627,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-07-17_2026-07-23"
+   "period_key": "2026-07-20_2026-07-24"
   },
   {
    "code": "WK-ETHIOPIA-LIMU-SUNTU-NATURAL-LIBRE-SELECTION-200g",
@@ -1639,8 +1639,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 7월 5주차",
-   "sale_period_start": "2026-07-24",
-   "sale_period_end": "2026-07-30",
+   "sale_period_start": "2026-07-27",
+   "sale_period_end": "2026-07-31",
    "weight": "200g",
    "price": 17000,
    "price_per_100g": null,
@@ -1673,7 +1673,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-07-24_2026-07-30"
+   "period_key": "2026-07-27_2026-07-31"
   },
   {
    "code": "WK-KENYA-NGORANO-200g",
@@ -1685,8 +1685,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 7월 5주차",
-   "sale_period_start": "2026-07-24",
-   "sale_period_end": "2026-07-30",
+   "sale_period_start": "2026-07-27",
+   "sale_period_end": "2026-07-31",
    "weight": "200g",
    "price": 19000,
    "price_per_100g": null,
@@ -1719,7 +1719,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-07-24_2026-07-30"
+   "period_key": "2026-07-27_2026-07-31"
   },
   {
    "code": "WK-COSTA-RICA-SANTA-TERESA-2000-200g",
@@ -1731,8 +1731,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 7월 5주차",
-   "sale_period_start": "2026-07-24",
-   "sale_period_end": "2026-07-30",
+   "sale_period_start": "2026-07-27",
+   "sale_period_end": "2026-07-31",
    "weight": "200g",
    "price": 17000,
    "price_per_100g": null,
@@ -1757,7 +1757,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-07-24_2026-07-30"
+   "period_key": "2026-07-27_2026-07-31"
   },
   {
    "code": "WK-NICARAGUA-EL-CAMBALACHE-MARACATURRA-NATURAL-200g",
@@ -1769,8 +1769,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 7월 5주차",
-   "sale_period_start": "2026-07-24",
-   "sale_period_end": "2026-07-30",
+   "sale_period_start": "2026-07-27",
+   "sale_period_end": "2026-07-31",
    "weight": "200g",
    "price": 22000,
    "price_per_100g": null,
@@ -1803,7 +1803,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-07-24_2026-07-30"
+   "period_key": "2026-07-27_2026-07-31"
   },
   {
    "code": "WK-HONDURAS-KUKURUCHO-GEISHA-200g",
@@ -1815,8 +1815,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 7월 5주차",
-   "sale_period_start": "2026-07-24",
-   "sale_period_end": "2026-07-30",
+   "sale_period_start": "2026-07-27",
+   "sale_period_end": "2026-07-31",
    "weight": "200g",
    "price": 32000,
    "price_per_100g": null,
@@ -1849,7 +1849,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-07-24_2026-07-30"
+   "period_key": "2026-07-27_2026-07-31"
   },
   {
    "code": "WK-PERU-EL-MIRADOR-GEISHA-NATURAL-200g",
@@ -1861,8 +1861,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 7월 5주차",
-   "sale_period_start": "2026-07-24",
-   "sale_period_end": "2026-07-30",
+   "sale_period_start": "2026-07-27",
+   "sale_period_end": "2026-07-31",
    "weight": "200g",
    "price": 36000,
    "price_per_100g": null,
@@ -1895,7 +1895,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-07-24_2026-07-30"
+   "period_key": "2026-07-27_2026-07-31"
   },
   {
    "code": "WK-PANAMA-FINCA-AUROMAR-FIRESTONE-GEISHA-100g",
@@ -1907,8 +1907,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 7월 5주차",
-   "sale_period_start": "2026-07-24",
-   "sale_period_end": "2026-07-30",
+   "sale_period_start": "2026-07-27",
+   "sale_period_end": "2026-07-31",
    "weight": "100g",
    "price": 32000,
    "price_per_100g": null,
@@ -1941,7 +1941,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-07-24_2026-07-30"
+   "period_key": "2026-07-27_2026-07-31"
   },
   {
    "code": "WK-COSTA-RICA-HELSAR-DE-ZARCERO-WHITE-HONEY-DECAF-200g",
@@ -1953,8 +1953,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 7월 5주차",
-   "sale_period_start": "2026-07-24",
-   "sale_period_end": "2026-07-30",
+   "sale_period_start": "2026-07-27",
+   "sale_period_end": "2026-07-31",
    "weight": "200g",
    "price": 17000,
    "price_per_100g": null,
@@ -1987,7 +1987,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-07-24_2026-07-30"
+   "period_key": "2026-07-27_2026-07-31"
   },
   {
    "code": "WK-HONDURAS-BEST-PARAINEMA-9TH-EL-ZAPOTE-NATURAL-200g",
@@ -1999,8 +1999,8 @@
    "sale_type": "기간 한정",
    "sale_channel": "매장 전용",
    "week_label": "2026년 7월 5주차",
-   "sale_period_start": "2026-07-24",
-   "sale_period_end": "2026-07-30",
+   "sale_period_start": "2026-07-27",
+   "sale_period_end": "2026-07-31",
    "weight": "200g",
    "price": 19000,
    "price_per_100g": null,
@@ -2033,7 +2033,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-07-24_2026-07-30"
+   "period_key": "2026-07-27_2026-07-31"
   },
   {
    "code": "WK-COSTA-RICA-LOS-ANGELES-LOS-GIRASOLES-200g",
@@ -2045,8 +2045,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 8월 1주차",
-   "sale_period_start": "2026-07-24",
-   "sale_period_end": "2026-07-30",
+   "sale_period_start": "2026-07-27",
+   "sale_period_end": "2026-07-31",
    "weight": "200g",
    "price": 19000,
    "price_per_100g": null,
@@ -2079,7 +2079,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-07-24_2026-07-30"
+   "period_key": "2026-07-27_2026-07-31"
   },
   {
    "code": "WK-ETHIOPIA-BENCH-MAJI-GESHA-200g",
@@ -2091,8 +2091,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 8월 1주차",
-   "sale_period_start": "2026-07-24",
-   "sale_period_end": "2026-07-30",
+   "sale_period_start": "2026-07-27",
+   "sale_period_end": "2026-07-31",
    "weight": "200g",
    "price": 19000,
    "price_per_100g": null,
@@ -2125,7 +2125,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-07-24_2026-07-30"
+   "period_key": "2026-07-27_2026-07-31"
   },
   {
    "code": "WK-HONDURAS-REYES-200g",
@@ -2137,8 +2137,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 8월 1주차",
-   "sale_period_start": "2026-07-24",
-   "sale_period_end": "2026-07-30",
+   "sale_period_start": "2026-07-27",
+   "sale_period_end": "2026-07-31",
    "weight": "200g",
    "price": 17000,
    "price_per_100g": null,
@@ -2171,7 +2171,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-07-24_2026-07-30"
+   "period_key": "2026-07-27_2026-07-31"
   },
   {
    "code": "WK-NICARAGUA-FLOR-AZUL-200g",
@@ -2183,8 +2183,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 8월 1주차",
-   "sale_period_start": "2026-07-24",
-   "sale_period_end": "2026-07-30",
+   "sale_period_start": "2026-07-27",
+   "sale_period_end": "2026-07-31",
    "weight": "200g",
    "price": 17000,
    "price_per_100g": null,
@@ -2217,7 +2217,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-07-24_2026-07-30"
+   "period_key": "2026-07-27_2026-07-31"
   },
   {
    "code": "WK-PERU-LA-FLOR-DE-CAFE-GEISHA-200g",
@@ -2229,8 +2229,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 8월 1주차",
-   "sale_period_start": "2026-07-24",
-   "sale_period_end": "2026-07-30",
+   "sale_period_start": "2026-07-27",
+   "sale_period_end": "2026-07-31",
    "weight": "200g",
    "price": 40000,
    "price_per_100g": null,
@@ -2263,7 +2263,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-07-24_2026-07-30"
+   "period_key": "2026-07-27_2026-07-31"
   },
   {
    "code": "WK-PANAMA-ELIDA-VUELTA-GEISHA-ASD-NATURAL-100g",
@@ -2275,8 +2275,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 8월 1주차",
-   "sale_period_start": "2026-07-24",
-   "sale_period_end": "2026-07-30",
+   "sale_period_start": "2026-07-27",
+   "sale_period_end": "2026-07-31",
    "weight": "100g",
    "price": 54000,
    "price_per_100g": null,
@@ -2309,7 +2309,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-07-24_2026-07-30"
+   "period_key": "2026-07-27_2026-07-31"
   },
   {
    "code": "WK-GUATEMALA-AGUA-TIBIA-GEISHA-200g",
@@ -2321,8 +2321,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 8월 1주차",
-   "sale_period_start": "2026-07-24",
-   "sale_period_end": "2026-07-30",
+   "sale_period_start": "2026-07-27",
+   "sale_period_end": "2026-07-31",
    "weight": "200g",
    "price": 30000,
    "price_per_100g": null,
@@ -2347,7 +2347,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-07-24_2026-07-30"
+   "period_key": "2026-07-27_2026-07-31"
   },
   {
    "code": "WK-COSTA-RICA-HELSAR-DE-ZARCERO-WHITE-HONEY-DECAF-200g",
@@ -2359,8 +2359,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 8월 1주차",
-   "sale_period_start": "2026-07-24",
-   "sale_period_end": "2026-07-30",
+   "sale_period_start": "2026-07-27",
+   "sale_period_end": "2026-07-31",
    "weight": "200g",
    "price": 17000,
    "price_per_100g": null,
@@ -2393,7 +2393,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-07-24_2026-07-30"
+   "period_key": "2026-07-27_2026-07-31"
   },
   {
    "code": "WK-NICARAGUA-FINCA-LIBRE-GEISHA-LOT-1-200g",
@@ -2405,8 +2405,8 @@
    "sale_type": "기간 한정",
    "sale_channel": "매장 전용",
    "week_label": "2026년 8월 1주차",
-   "sale_period_start": "2026-07-24",
-   "sale_period_end": "2026-07-30",
+   "sale_period_start": "2026-07-27",
+   "sale_period_end": "2026-07-31",
    "weight": "200g",
    "price": 28000,
    "price_per_100g": null,
@@ -2439,7 +2439,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-07-24_2026-07-30"
+   "period_key": "2026-07-27_2026-07-31"
   },
   {
    "code": "WK-ETHIOPIA-KAFFA-BITA-LIBRE-SELECTION-200g",
@@ -2451,8 +2451,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 8월 2주차",
-   "sale_period_start": "2026-07-31",
-   "sale_period_end": "2026-08-06",
+   "sale_period_start": "2026-08-10",
+   "sale_period_end": "2026-08-14",
    "weight": "200g",
    "price": 17000,
    "price_per_100g": null,
@@ -2485,7 +2485,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-07-31_2026-08-06"
+   "period_key": "2026-08-10_2026-08-14"
   },
   {
    "code": "WK-RWANDA-BUSANZE-200g",
@@ -2497,8 +2497,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 8월 2주차",
-   "sale_period_start": "2026-07-31",
-   "sale_period_end": "2026-08-06",
+   "sale_period_start": "2026-08-10",
+   "sale_period_end": "2026-08-14",
    "weight": "200g",
    "price": 17000,
    "price_per_100g": null,
@@ -2531,7 +2531,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-07-31_2026-08-06"
+   "period_key": "2026-08-10_2026-08-14"
   },
   {
    "code": "WK-KENYA-KAGUMO-200g",
@@ -2543,8 +2543,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 8월 2주차",
-   "sale_period_start": "2026-07-31",
-   "sale_period_end": "2026-08-06",
+   "sale_period_start": "2026-08-10",
+   "sale_period_end": "2026-08-14",
    "weight": "200g",
    "price": 18500,
    "price_per_100g": null,
@@ -2577,7 +2577,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-07-31_2026-08-06"
+   "period_key": "2026-08-10_2026-08-14"
   },
   {
    "code": "WK-INDIA-AZAD-HIND-ROBUSTA-ANAEROBIC-NATURAL-200g",
@@ -2589,8 +2589,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 8월 2주차",
-   "sale_period_start": "2026-07-31",
-   "sale_period_end": "2026-08-06",
+   "sale_period_start": "2026-08-10",
+   "sale_period_end": "2026-08-14",
    "weight": "200g",
    "price": 17000,
    "price_per_100g": null,
@@ -2615,7 +2615,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-07-31_2026-08-06"
+   "period_key": "2026-08-10_2026-08-14"
   },
   {
    "code": "WK-NICARAGUA-BETHANIA-MARACATURRA-NATURAL-200g",
@@ -2627,8 +2627,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 8월 2주차",
-   "sale_period_start": "2026-07-31",
-   "sale_period_end": "2026-08-06",
+   "sale_period_start": "2026-08-10",
+   "sale_period_end": "2026-08-14",
    "weight": "200g",
    "price": 22000,
    "price_per_100g": null,
@@ -2661,7 +2661,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-07-31_2026-08-06"
+   "period_key": "2026-08-10_2026-08-14"
   },
   {
    "code": "WK-HONDURAS-LAS-MORAS-GEISHA-200g",
@@ -2673,8 +2673,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 8월 2주차",
-   "sale_period_start": "2026-07-31",
-   "sale_period_end": "2026-08-06",
+   "sale_period_start": "2026-08-10",
+   "sale_period_end": "2026-08-14",
    "weight": "200g",
    "price": 28000,
    "price_per_100g": null,
@@ -2707,7 +2707,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-07-31_2026-08-06"
+   "period_key": "2026-08-10_2026-08-14"
   },
   {
    "code": "WK-PERU-CAJAMARCA-2ND-LA-MANDARINA-GEISHA-NATURAL-100g",
@@ -2719,8 +2719,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 8월 2주차",
-   "sale_period_start": "2026-07-31",
-   "sale_period_end": "2026-08-06",
+   "sale_period_start": "2026-08-10",
+   "sale_period_end": "2026-08-14",
    "weight": "100g",
    "price": 29000,
    "price_per_100g": null,
@@ -2753,7 +2753,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-07-31_2026-08-06"
+   "period_key": "2026-08-10_2026-08-14"
   },
   {
    "code": "WK-COSTA-RICA-HELSAR-DE-ZARCERO-WHITE-HONEY-DECAF-200g",
@@ -2765,8 +2765,8 @@
    "sale_type": "기간 한정",
    "sale_channel": null,
    "week_label": "2026년 8월 2주차",
-   "sale_period_start": "2026-07-31",
-   "sale_period_end": "2026-08-06",
+   "sale_period_start": "2026-08-10",
+   "sale_period_end": "2026-08-14",
    "weight": "200g",
    "price": 17000,
    "price_per_100g": null,
@@ -2799,7 +2799,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-07-31_2026-08-06"
+   "period_key": "2026-08-10_2026-08-14"
   },
   {
    "code": "WK-CONGO-BEST-OF-CONGO-2ND-SOPADE-200g",
@@ -2811,8 +2811,8 @@
    "sale_type": "기간 한정",
    "sale_channel": "매장 전용",
    "week_label": "2026년 8월 2주차",
-   "sale_period_start": "2026-07-31",
-   "sale_period_end": "2026-08-06",
+   "sale_period_start": "2026-08-10",
+   "sale_period_end": "2026-08-14",
    "weight": "200g",
    "price": 19000,
    "price_per_100g": null,
@@ -2845,13 +2845,13 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-07-31_2026-08-06"
+   "period_key": "2026-08-10_2026-08-14"
   }
  ],
  "week_label_aliases": [
   {
-   "period_start": "2026-07-24",
-   "period_end": "2026-07-30",
+   "period_start": "2026-07-27",
+   "period_end": "2026-07-31",
    "week_labels": [
     "2026년 7월 5주차",
     "2026년 8월 1주차"
