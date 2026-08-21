@@ -416,7 +416,7 @@
   "code": "GOODS-038",
   "purchase_link": "https://coffeelibre.kr/product/detail.html?product_no=459&cate_no=63&display_group=1",
   "in_stock": true
- }
+ },
  {
   "name": "에스프레소의 과학",
   "name_en": "Advanced Espresso: Elements of Coffee",
@@ -427,5 +427,5 @@
   "code": "GOODS-039",
   "purchase_link": "https://coffeelibre.kr/product/detail.html?product_no=7996&cate_no=63&display_group=1",
   "in_stock": true
- },
+ }
 ]
