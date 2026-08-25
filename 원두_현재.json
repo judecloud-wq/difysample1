@@ -1,8 +1,7 @@
 {
- "generated_at": "2026-08-19",
- "week_label": "2026년 8월 3주차(월-금 체계)",
+ "generated_at": "2026-08-24",
+ "week_label": "2026년 8월 4주차(월-금 체계)",
  "weekly_singles": [
-    
   {
    "code": "WK-HONDURAS-ALTAMIRA-PARAINEMA-200g",
    "name_kr": "온두라스 알타미라 파라이네마",
@@ -48,7 +47,7 @@
    "purchase_condition": null,
    "channel_note": null,
    "period_key": "2026-08-24_2026-08-28",
-   "purchase_link": "https://coffeelibre.kr/product/detail.html?product_no=7999&cate_no=53&display_group=1",
+   "purchase_link": "https://coffeelibre.kr/product/detail.html?product_no=7999&cate_no=53&display_group=1"
   },
   {
    "code": "WK-ETHIOPIA-NENSEBO-TADESSE-DEGIFE-NATURAL-200g",
@@ -250,7 +249,7 @@
    "decaf": false,
    "roast_level": "약배전",
    "flavor_notes_kr": [
-    "​​백합",
+    "백합",
     "라벤더",
     "우롱",
     "복숭아"

@@ -2846,17 +2846,6 @@
    "purchase_condition": null,
    "channel_note": null,
    "period_key": "2026-08-10_2026-08-14"
-  }
- ],
- "week_label_aliases": [
-  {
-   "period_start": "2026-07-27",
-   "period_end": "2026-07-31",
-   "week_labels": [
-    "2026년 7월 5주차",
-    "2026년 8월 1주차"
-   ],
-   "note": "이 판매 기간에 서로 다른 주차 라벨이 부여되어 있습니다. 두 라벨은 같은 주(같은 판매 기간)를 가리키는 것으로 보이며, 서로 다른 9종 상품이 함께 있었던 것으로 기록되어 있습니다."
   },
   {
    "code": "WK-KENYA-KAGUMO-200g",
@@ -2902,7 +2891,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-08-17_2026-08-21",
+   "period_key": "2026-08-17_2026-08-21"
   },
   {
    "code": "WK-COSTA-RICA-SANTA-TERESA-2000-MONTANA-200g",
@@ -2948,7 +2937,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-08-17_2026-08-21",
+   "period_key": "2026-08-17_2026-08-21"
   },
   {
    "code": "WK-ETHIOPIA-LIMU-SUNTU-NATURAL-LIBRE-SELECTION-200g",
@@ -2994,7 +2983,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-08-17_2026-08-21",
+   "period_key": "2026-08-17_2026-08-21"
   },
   {
    "code": "WK-GUATEMALA-ENTRE-VOLCANES-200g",
@@ -3030,7 +3019,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-08-17_2026-08-21",
+   "period_key": "2026-08-17_2026-08-21"
  },
   {
    "code": "WK-NICARAGUA-FINCA-LIBRE-GEISHA",
@@ -3076,7 +3065,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-08-17_2026-08-21",
+   "period_key": "2026-08-17_2026-08-21"
   },
   {
    "code": "WK-HONDURAS-LAS-VIRGINIAS-GEISHA-200g",
@@ -3122,7 +3111,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-08-17_2026-08-21",
+   "period_key": "2026-08-17_2026-08-21"
   },
   {
    "code": "WK-PERU-CAJAMARCA-3RD-EL-RIACHUELO-GEISHA-200g",
@@ -3168,7 +3157,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-08-17_2026-08-21",
+   "period_key": "2026-08-17_2026-08-21"
   },
   {
    "code": "WK-COSTA-RICA-HELSAR-DE-ZARCERO-WHITE-HONEY-DECAF-200g",
@@ -3214,7 +3203,7 @@
    "feature": null,
    "purchase_condition": null,
    "channel_note": null,
-   "period_key": "2026-08-17_2026-08-21",
+   "period_key": "2026-08-17_2026-08-21"
   },
   {
    "code": "WK-INDIA-AZAD-HIND-EXCELSA-ANAEROBIC-NATURAL-200g",
@@ -3263,6 +3252,17 @@
    "purchase_condition": null,
    "channel_note": null,
    "period_key": "2026-08-17_2026-08-21"
+  }
+ ],
+ "week_label_aliases": [
+  {
+   "period_start": "2026-07-27",
+   "period_end": "2026-07-31",
+   "week_labels": [
+    "2026년 7월 5주차",
+    "2026년 8월 1주차"
+   ],
+   "note": "이 판매 기간에 서로 다른 주차 라벨이 부여되어 있습니다. 두 라벨은 같은 주(같은 판매 기간)를 가리키는 것으로 보이며, 서로 다른 9종 상품이 함께 있었던 것으로 기록되어 있습니다."
   }
  ]
 }
